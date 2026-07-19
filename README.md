@@ -1,62 +1,102 @@
 # Garces Labs
 
-Applied AI Systems • GenAI Reliability • Multimodal Evaluation • Agentic Systems
+**Production AI Systems • Decision Intelligence • Multi-Agent Orchestration • AI Reliability**
 
-Building reliable AI systems and evaluation frameworks for multimodal and agentic intelligence.
+Building production-grade AI systems that combine LLM reasoning with deterministic software engineering. Focused on evaluation, orchestration, reliability, and decision support for real-world AI applications.
+
+Former Google GenAI Manager leading multimodal evaluation, AI quality systems, and production AI launches at global scale.
 
 ---
 
 ## Focus Areas
 
-- Agent Reliability & Evaluation Systems
-- Multimodal AI Infrastructure
-- Long-Horizon Task Evaluation
-- AI Coordination Frameworks
-- Human Feedback Loops
-- Production AI Quality Systems
-- Applied LLM Infrastructure
+- Multi-Agent Orchestration
+- AI Decision Intelligence
+- LLM Evaluation & Reliability
+- Production AI Infrastructure
+- Human-in-the-Loop AI
+- Deterministic AI Workflows
+- AI Systems for Decision Support
 
 ---
 
 ## Current Interests
 
-- Agentic orchestration systems
-- Multimodal reasoning reliability
-- Evaluation pipelines for frontier models
-- Human-in-the-loop AI systems
-- Coordination under ambiguity
-- AI operational scalability
+- Agentic AI Systems
+- AI Evaluation & Benchmarking
+- Frontier Model Reliability
+- Decision Intelligence Platforms
+- Algorithmic Trading & Investment Systems
+- Multi-Agent Architectures
+- AI Developer Tooling
 
 ---
 
-## Selected Projects
+## Flagship Projects
 
-### Multimodal Agent Reliability Framework
-Evaluation framework for hallucination detection, uncertainty scoring, multimodal consistency validation, and long-horizon task reliability.
+### 🚀 Application Intelligence Platform
 
-### AI Coordination System
-Operational framework for release gating, evaluation orchestration, escalation management, and production AI quality workflows.
+A multi-stage AI system that evaluates job opportunities, tailors truthful CVs, performs hiring-manager reviews, benchmarks AI providers, validates outputs, and generates deterministic application artifacts.
 
-### Research Orchestrator Agent
-Research-grade retrieval and reasoning agent focused on evidence synthesis, contradiction detection, source ranking, and citation-aware generation.
+**Highlights**
+- Provider abstraction (Codex CLI, Claude CLI, OpenAI API)
+- Deterministic orchestration
+- Evidence-linked contracts
+- Benchmark framework
+- Human-in-the-loop decision support
 
 ---
 
-## Philosophy
+### 📈 North Star Capital
 
-Reliable AI systems are not built through model capability alone.
+A multi-agent investment decision platform that simulates an institutional investment committee through specialized analyst roles, deterministic orchestration, evidence-based reasoning, and explainable portfolio recommendations.
 
-They emerge from strong evaluation frameworks, operational clarity, feedback systems, and coordination between humans and intelligent agents.
+**Highlights**
+- 17-role investment committee
+- Two-round deliberation framework
+- Evidence validation
+- Risk-aware decision synthesis
+- Explainable investment recommendations
+
+---
+
+### 🧪 LLM Evals Platform
+
+Evaluation framework for hallucination detection, factuality, uncertainty scoring, multimodal consistency validation, and long-horizon task reliability.
+
+---
+
+### 🤖 AI Coordination System
+
+Operational framework for orchestrating AI workflows, release gating, evaluation pipelines, escalation management, and production AI quality systems.
+
+---
+
+### 📚 Research Orchestrator Agent
+
+Evidence-driven research assistant focused on retrieval, contradiction detection, source ranking, and citation-aware synthesis.
+
+---
+
+## Engineering Philosophy
+
+Reliable AI systems are built by combining strong model capabilities with deterministic orchestration, rigorous evaluation, and human oversight.
+
+The objective is not simply to generate outputs, but to build AI systems that are observable, reproducible, and trustworthy in production.
 
 ---
 
 ## Tech Stack
 
-`Python` `FastAPI` `LLMs` `Evaluation Systems` `Agentic Workflows`
-`OpenAI APIs` `Anthropic APIs` `Multimodal Systems`
-`Docker` `Data Pipelines` `AI Operations`
+`Python` • `FastAPI` • `LLMs` • `Agentic Systems` • `Evaluation Frameworks` • `Structured Outputs` • `Pytest` • `Docker` • `CI/CD` • `OpenAI` • `Anthropic`
 
 ---
+
+## Current Goal
+
+Building AI systems that bridge frontier models and production software engineering through evaluation, orchestration, benchmarking, and deterministic workflows.
+
+Expanding these principles into decision intelligence across domains including AI evaluation, hiring systems, research automation, and algorithmic investment workflows.
 
 ## Connect
 
